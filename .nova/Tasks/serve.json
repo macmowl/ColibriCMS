@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "php artisan serve"
+    }
+  },
+  "buildBeforeRunning" : true,
+  "identifier" : "B2A0D57C-1E6A-4856-9AA6-AFC787ADC3AF"
+}
